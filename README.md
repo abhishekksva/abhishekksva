@@ -1,16 +1,27 @@
-## Hi there 👋
+# Greeting of the day, I'm Abhishek Krishna Srivastava 
 
-<!--
-**abhishekksva/abhishekksva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech - HBTU Kanpur | AI & ML | IIT Bhubaneshwar 
+💼 ML Engineer | Deep Learning | NLP | Computer Vision  
+📍 Kanpur, India | Open to Opportunities
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🏦 CreditWise Loan System | Loan approval prediction | KNN, Naive Bayes |
+| 🛒 SmartCart Segmentation | Customer clustering | KMeans, PCA |
+| 🎬 Sentiment Analysis | IMDB review classifier | RNN, PyTorch |
+| 🖼️ Image Classification | CIFAR10 classifier | CNN, PyTorch |
+
+---
+
+## 🛠️ Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+---
+
+## 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]www.linkedin.com/in/abhishek-krishna-srivastava-172660297
