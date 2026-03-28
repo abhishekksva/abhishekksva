@@ -13,6 +13,7 @@
 | 🛒 SmartCart Segmentation | Customer clustering | KMeans, PCA | Streamlit
 | 🎬 Sentiment Analysis | IMDB review classifier | RNN, PyTorch | Streamlit
 | 🖼️ Image Classification | CIFAR10 classifier | CNN, PyTorch | Streamlit
+| Live Website | Astrology Website | Web Dev, AI Bot | Netlify
 
 ---
 
