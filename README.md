@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Projects
+##  Projects
 | Project | Description | Tech |
 |---------|-------------|------|
 | 🏦 CreditWise Loan System | Loan approval prediction | KNN, Naive Bayes |
