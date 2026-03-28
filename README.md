@@ -7,12 +7,12 @@
 ---
 
 ##  PROJECTS
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🏦 CreditWise Loan System | Loan approval prediction | KNN, Naive Bayes | Deloyed on Streamlit
-| 🛒 SmartCart Segmentation | Customer clustering | KMeans, PCA | Deloyed on Streamlit
-| 🎬 Sentiment Analysis | IMDB review classifier | RNN, PyTorch | Deloyed on Streamlit
-| 🖼️ Image Classification | CIFAR10 classifier | CNN, PyTorch | Deloyed on Streamlit
+| Project | Description | Tech | Deployed |
+|---------|-------------|------|----------|
+| 🏦 CreditWise Loan System | Loan approval prediction | KNN, Naive Bayes | Streamlit
+| 🛒 SmartCart Segmentation | Customer clustering | KMeans, PCA | Streamlit
+| 🎬 Sentiment Analysis | IMDB review classifier | RNN, PyTorch | Streamlit
+| 🖼️ Image Classification | CIFAR10 classifier | CNN, PyTorch | Streamlit
 
 ---
 
