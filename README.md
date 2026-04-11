@@ -1,7 +1,7 @@
 # Greeting of the day, I'm Abhishek Krishna Srivastava 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7B731&center=true&vCenter=true&width=600&lines=ML+Engineer+%7C+GenAI+%7C+LLM+Fine-tuning;RAG+%7C+NLP+%7C+Computer+Vision;B.Tech+HBTU+Kanpur+%7C+AI+%26+ML+IIT+Bhubaneswar;Open+to+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7B731&center=true&vCenter=true&width=600&lines=SDE-AI/ML+Engineer+%7C+GenAI+%7C+LLM+Fine-tuning;RAG+%7C+NLP+%7C+Computer+Vision;B.Tech+HBTU+Kanpur+%7C+AI+%26+ML+IIT+Bhubaneswar;Open+to+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
