@@ -19,7 +19,7 @@
 - **AI & ML Certificate** — IIT Bhubaneswar / Wissenaire 
 - Currently building with **LangChain · Gemini · HuggingFace · PyTorch**
 - Deep diving into **LLM Fine-tuning · RAG Pipelines · Vector Databases**
-- Open to roles in **ML Engineering · GenAI · NLP · Data Science**
+- Open to roles in **SDE - AI/ML Engineering · GenAI · NLP · Data Science**
 - Hobbies: Guitar · Basketball · Singing
 
 ---
