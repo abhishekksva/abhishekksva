@@ -16,7 +16,7 @@
 ## About Me
 
 - **B.Tech** — HBTU Kanpur (First Division, 2021–2025)
-- **AI & ML Certificate** — IIT Bhubaneswar / Wissenaire and Google AI Professionals Certificate 
+- **AI & ML Certificate** — IIT Bhubaneswar / Wissenaire and **Google AI Professionals Certificate**  
 - Currently building with **LangChain · Gemini · HuggingFace · PyTorch**
 - Deep diving into **LLM Fine-tuning · RAG Pipelines · Vector Databases**
 - Open to roles in **SDE - AI/ML Engineering · GenAI · NLP · Data Science**
